@@ -38,14 +38,12 @@
 
 ## ⚙️ Command 
 ```
-apt update && upgrade
 pkg update && upgrade
 dpkg --configure -a
-rm -rf LMNx9_ENC
-git clone --depth=1 https://github.com/LMNx9-JOHNY/LMNx9_ENC
-cd LMNx9_ENC
+git clone --depth=1 https://github.com/LMNx9-JOHNY/ENC-DEC
+cd ENC-DEC
 chmod +x *
-python ENCv9.py
+python v10.py
 ```
 
 ---
