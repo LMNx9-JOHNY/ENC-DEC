@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/Why_LMNx9-0f172a?style=for-the-badge&labelColor=0f172a&color=0e7490&logo=android&logoColor=white" alt="Why LMNx9"/>
+<img src="https://img.shields.io/badge/Why_LMNx9-0f172a?style=for-the-badge&labelColor=0f172a&color=0e7490&logo=android&logoColor=white" alt="Why LMNx9 ENC-DEC"/>
 </p>
 
 | <img src="https://img.shields.io/badge/Icon-0e7490?style=flat-square" alt="Icon"/> | <img src="https://img.shields.io/badge/Feature-7c3aed?style=flat-square" alt="Feature"/> | <img src="https://img.shields.io/badge/Details-be185d?style=flat-square" alt="Details"/> |
@@ -43,37 +43,34 @@
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/Quick_Start-0f172a?style=for-the-badge&labelColor=0f172a&color=7c3aed&logo=gnubash&logoColor=white" alt="Quick Start"/>
+<img src="https://img.shields.io/badge/Quick_Start-0f172a?style=for-the-badge&labelColor=0f172a&color=7c3aed&logo=gnubash&logoColor=white" alt="Installation"/>
 </p>
 
-Each block below is a code box with a copy button at the top-right corner.
 
 **1. Update Termux**
 
 ```bash
-pkg update -y && pkg upgrade -y
+    pkg update -y && pkg upgrade -y
 ```
 
 **2. Install required tools**
 
 ```bash
-pkg install -y python clang make cmake termux-tools git
+    pkg install -y python clang make cmake termux-tools git
 ```
 
 **3. Clone the repository**
 
 ```bash
-git clone --depth=1 https://github.com/LMNx9-JOHNY/ENC-DEC
-cd ENC-DEC && chmod +x *
+    git clone --depth=1 https://github.com/LMNx9-JOHNY/ENC-DEC
+    cd ENC-DEC && chmod +x *
 ```
 
 **4. Run**
 
 ```bash
-python v11.py
+    python v11.py
 ```
-
-> `v11.so` must sit beside `v11.py`.
 
 ---
 
