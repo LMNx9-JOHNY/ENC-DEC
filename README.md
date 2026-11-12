@@ -209,43 +209,35 @@ Verify every encoded output in a sandbox before deploying. The engine is closed-
 
 <table align="center">
 <tr>
-<td align="center" width="340" valign="middle">
+<td align="center" width="340">
+<img src="https://api.iconify.design/lucide/send.svg?color=%2322d3ee&width=36" width="36" alt="Developer"/>
 <br>
-<img src="https://api.iconify.design/lucide/send.svg?color=%2322d3ee&width=44" width="44" alt="Developer"/>
-<br><br>
 <img src="https://img.shields.io/badge/DEVELOPER-0e7490?style=for-the-badge&logo=telegram&logoColor=white" alt="Developer"/>
-<br><br>
-<a href="https://t.me/x_LMNx9"><img src="https://img.shields.io/badge/@x__LMNx9-1d4ed8?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Developer"/></a>
-<br><br>
-</td>
-<td align="center" width="340" valign="middle">
 <br>
-<img src="https://api.iconify.design/lucide/users.svg?color=%2322d3ee&width=44" width="44" alt="Community"/>
-<br><br>
+<a href="https://t.me/x_LMNx9"><img src="https://img.shields.io/badge/@x__LMNx9-1d4ed8?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Developer"/></a>
+</td>
+<td align="center" width="340">
+<img src="https://api.iconify.design/lucide/users.svg?color=%2322d3ee&width=36" width="36" alt="Community"/>
+<br>
 <img src="https://img.shields.io/badge/COMMUNITY-7c3aed?style=for-the-badge&logo=telegram&logoColor=white" alt="Community"/>
-<br><br>
+<br>
 <a href="https://t.me/+6hZVa9jGrIY4ZDRl"><img src="https://img.shields.io/badge/Join_Group-1d4ed8?style=flat-square&logo=telegram&logoColor=white" alt="Join Group"/></a>
-<br><br>
 </td>
 </tr>
 <tr>
-<td align="center" width="340" valign="middle">
+<td align="center" width="340">
+<img src="https://api.iconify.design/lucide/message-circle.svg?color=%2322d3ee&width=36" width="36" alt="WhatsApp"/>
 <br>
-<img src="https://api.iconify.design/lucide/message-circle.svg?color=%2322d3ee&width=44" width="44" alt="WhatsApp"/>
-<br><br>
 <img src="https://img.shields.io/badge/WHATSAPP-15803d?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-<br><br>
-<a href="https://wa.me/19707808868"><img src="https://img.shields.io/badge/%2B1_970_780_8868-15803d?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Number"/></a>
-<br><br>
-</td>
-<td align="center" width="340" valign="middle">
 <br>
-<img src="https://api.iconify.design/lucide/globe.svg?color=%2322d3ee&width=44" width="44" alt="Website"/>
-<br><br>
+<a href="https://wa.me/19707808868"><img src="https://img.shields.io/badge/%2B1_970_780_8868-15803d?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Number"/></a>
+</td>
+<td align="center" width="340">
+<img src="https://api.iconify.design/lucide/globe.svg?color=%2322d3ee&width=36" width="36" alt="Website"/>
+<br>
 <img src="https://img.shields.io/badge/WEBSITE-be185d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-<br><br>
+<br>
 <a href="https://lmnx9.shop"><img src="https://img.shields.io/badge/lmnx9.shop-be185d?style=flat-square&logo=googlechrome&logoColor=white" alt="lmnx9.shop"/></a>
-<br><br>
 </td>
 </tr>
 </table>
